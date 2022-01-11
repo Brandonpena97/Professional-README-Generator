@@ -59,6 +59,16 @@ const questions = [
         type: "input",
         name: "projectCredit3",
         message: "If you followed tutorials, include links to those here:"
+    },
+    {
+        type: "input",
+        name: "projectTest",
+        message: "How do you test your application?:"
+    },
+    {
+        type: "input",
+        name: "projectUsage",
+        message: "what is your application used for? Provide instructions and examples for use:"
     }
 ]
 

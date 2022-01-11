@@ -1,10 +1,10 @@
-# Professional readMe
-  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)]
+# Professional Readme generator
+  [![License: MPL 2.0](https://img.shields.io/badge/License-MPL_2.0-brightgreen.svg)]
 
 
   ## Description 
   
-  HElps make professional readme 
+  Help make a professional readme for any project needed. 
   
   
   ## Table of Contents (Optional)
@@ -18,12 +18,15 @@
   
   
   ## Installation
-  downlaod node and npm install
+  Step-by-step description for installation.
+  needed npm intalled to run this application
 
   What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
   
   
   ## Usage 
+  this app will allow you to be able to show any work done with and to your project youd like to share
+
   
   Provide instructions and examples for use. Include screenshots as needed.
   
@@ -33,46 +36,37 @@
   
   
   ## Credits
+  List of collaboratos and links to their Github profiles,Third party links and tutorilas if followed  
   n/a
 
   n/a
 
   n/a
 
-  List your collaborators, if any, with links to their GitHub profiles.
-  
-  If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
-  
-  If you followed tutorials, include links to those here as well.
   
   
   ## License
 
-  (https://opensource.org/licenses/MIT)
+  (https://opensource.org/licenses/MPL-2.0)
   
- The MIT license gives users express permission to reuse code for any purpose, sometimes even if code is part of proprietary software. As long as users include the original copy of the MIT license in their distribution, they can make any changes or modifications to the code to suit their own needs.
+ The Mozilla Public License (MPL) is a free and open-source software license developed and maintained by the Mozilla Foundation. ... As such, it allows the integration of MPL-licensed code into proprietary codebases, as long as the MPL-licensed components remain accessible under the terms of the MPL.
   ---
   
-  🏆 The sections listed above are the minimum for a good README, but your project will ultimately determine the content of this document. You might also want to consider adding the following sections.
-  
- 
-  
-  
-  ## Features
-  
-  If your project has a lot of features, consider adding a heading called "Features" and listing them there.
   
   
   ## Contributing
   n/a
-  If you created an application or package and would like other developers to contribute it, you will want to add guidelines for how to do so. The [Contributor Covenant](https://www.contributor-covenant.org/) is an industry standard, but you can always write your own.
+
+  
   
   ## Tests
   
+  In your terminal run "npm run test" to test this application
   Go the extra mile and write tests for your application. Then provide examples on how to run them.
   
   ## Questions
   If any questions, concerns or need to reach out for additional question you can contact me through email or github.
+
   joe@mail.com
-  
-  JoeGithub
+
+  Joegithub
