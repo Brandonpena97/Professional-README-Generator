@@ -38,7 +38,7 @@ const questions = [
     {
         type: "input",
         name: "projectInstall",
-        message: "Please provide step by step installation requirements to intall your project: "
+        message: "Please provide step by step installation requirements to install your project: "
     },
     {
         type: "input",

@@ -11,6 +11,9 @@ function renderLicenseBadge(license) {
   else if (license == 'Apache') {
     return "[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)]"
   }
+  else if (license == 'Boost') {
+    return "[![License](https://img.shields.io/badge/License-Boost_1.0-lightblue.svg)]"
+  }
 
 
 
@@ -29,6 +32,9 @@ function renderLicenseLink(license) {
   else if (license == 'Apache') {
     return "(https://opensource.org/licenses/Apache-2.0)"
   }
+  else if (license == 'Boost') {
+    return "(https://www.boost.org/LICENSE_1_0.txt)"
+  }
 
 }
 
@@ -44,6 +50,9 @@ function renderLicenseSection(license) {
   }
   else if (license == 'Apache') {
     return "The Apache License is a permissive free software license written by the Apache Software Foundation (ASF). It allows users to use the software for any purpose, to distribute it, to modify it, and to distribute modified versions of the software under the terms of the license, without concern for royalties."
+  }
+  else if (license == 'Boost') {
+    return "The Boost license permits the creation of derivative works for commercial or non-commercial use with no legal requirement to release your source code. Other differences include Boost not requiring reproduction of copyright messages for object code redistribution. The GPL is also much longer."
   }
 
 }
@@ -73,18 +82,10 @@ function generateMarkdown(data) {
   Step-by-step description for installation.
   ${data.projectInstall}
 
-  What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
   
   
   ## Usage 
   ${data.projectUsage}
-
-  
-  Provide instructions and examples for use. Include screenshots as needed.
-  
-  To add a screenshot, create an 'assets/images' folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-  
-  
   
   
   ## Credits

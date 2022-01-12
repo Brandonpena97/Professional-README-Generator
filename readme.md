@@ -1,10 +1,10 @@
-# Professional Readme generator
+# Professional readme generator
   [![License: MPL 2.0](https://img.shields.io/badge/License-MPL_2.0-brightgreen.svg)]
 
 
   ## Description 
   
-  Help make a professional readme for any project needed. 
+  This is to help make a professional readme for any project needed
   
   
   ## Table of Contents (Optional)
@@ -19,20 +19,12 @@
   
   ## Installation
   Step-by-step description for installation.
-  needed npm intalled to run this application
+  npm install
 
-  What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
   
   
   ## Usage 
-  this app will allow you to be able to show any work done with and to your project youd like to share
-
-  
-  Provide instructions and examples for use. Include screenshots as needed.
-  
-  To add a screenshot, create an 'assets/images' folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-  
-  
+  n/a
   
   
   ## Credits
@@ -61,12 +53,12 @@
   
   ## Tests
   
-  In your terminal run "npm run test" to test this application
+  npm run test into your terminal
   Go the extra mile and write tests for your application. Then provide examples on how to run them.
   
   ## Questions
   If any questions, concerns or need to reach out for additional question you can contact me through email or github.
 
-  joe@mail.com
+  Brandonpena97@gmail.com
 
-  Joegithub
+  https://github.com/Brandonpena97/Professional-README-Generatorhttps://github.com/Brandonpena97/Professional-README-Generator
